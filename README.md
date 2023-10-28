@@ -87,7 +87,7 @@
 - *[Python на Android](https://pythonru.com/baza-znanij/python-na-android)*
 
 Установка IDE (интегрированная среда разработки):
-- [PyCharm](www.jetbrains.com/pycharm/download/)
+- [PyCharm](https://www.jetbrains.com.cn/en-us/pycharm/)
 - [Jupyter Notebook](https://jupyter.org/install) (тетрадь: code и markdown)
 - Важно! Если есть проблемы с установкой Jupyter Notebook, можно пойти простым путем и установить [Anaconda](https://www.anaconda.com/download#downloads) (большая сборка, Jupyter Notebook в нее входит)
 - [Google Colab](https://colab.research.google.com) (онлайн-тетрадь, без установки)
