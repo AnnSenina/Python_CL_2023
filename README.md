@@ -19,7 +19,7 @@
 <tr>
 <td>2</td>
 <td>4 ноября 2023</td>
-<td>Операторы ввода/вывода (print, display, input), списки, циклы</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_Intro_1.ipynb">Операторы ввода/вывода (print, display, input), списки</a>, <a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_Intro_1.ipynb">циклы</a></td>
 <tr>
 <td>3</td>
 <td>11 ноября 2023</td>
