@@ -23,7 +23,7 @@
 <tr>
 <td>3</td>
 <td>11 ноября 2023</td>
-<td>Множества, кортежи, словари</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_tuple%2C_set%2C_dict.ipynb">Кортежи, множества, словари</a></td>
 <tr>
 <td>4</td>
 <td>15 ноября 2023</td>
