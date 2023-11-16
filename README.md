@@ -31,7 +31,7 @@
 <tr>
 <td>5</td>
 <td>18 ноября 2023</td>
-<td>Работа с файлами, модуль os</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_6_os%2C_files.ipynb">Работа с файлами, модуль os</a></td>
 <tr>
 <td>6</td>
 <td>25 ноября 2023</td>
