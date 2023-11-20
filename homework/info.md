@@ -11,6 +11,6 @@
 
 ### Как отправлять решение
 
-Решите задачу в удобной для вас среде программирования, сохраните в формате .ipynb или .py, выложите код в **свой репозиторий на гитхаб** и пришлите ссылку. 
+Решите задачу в удобной для вас среде программирования, сохраните в формате .ipynb или .py, выложите код в **свой репозиторий на гитхаб** и пришлите ссылку в [форму](https://forms.gle/9HDYcAYk9J6NqtfNA). 
 
 Если ваш репозиторий приватный, добавьте меня коллаборатором ([инструкция](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository))
