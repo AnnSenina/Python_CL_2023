@@ -38,7 +38,7 @@
 <tr>
 <td>6</td>
 <td>25 ноября 2023</td>
-<td>Регулярные выражения в Python</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_7_regex_2023.ipynb">Регулярные выражения в Python</a></td>
 <tr>
 <td>7</td>
 <td>27 ноября 2023</td>
