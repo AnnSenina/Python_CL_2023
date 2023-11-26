@@ -42,7 +42,7 @@
 <tr>
 <td>7</td>
 <td>27 ноября 2023</td>
-<td>Препроцессинг, NLTK</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_9_препроцессинг%2C_NLTK.ipynb">Препроцессинг, NLTK</a></td>
 <tr>
 <td>8</td>
 <td>2 декабря 2023</td>
