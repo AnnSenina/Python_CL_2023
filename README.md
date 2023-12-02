@@ -22,15 +22,15 @@
 <tr>
 <td>2</td>
 <td>4 ноября 2023</td>
-<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_Intro_1.ipynb">Операторы ввода/вывода (print, display, input), списки</a>, <a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_4_if%2C_while%2C_for.ipynb">циклы</a></td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_1_Intro.ipynb">Операторы ввода/вывода (print, display, input), списки</a>, <a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_2_if,_while,_for.ipynb">циклы</a></td>
 <tr>
 <td>3</td>
 <td>11 ноября 2023</td>
-<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_tuple%2C_set%2C_dict.ipynb">Кортежи, множества, словари</a></td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_3_tuple,_set,_dict.ipynb">Кортежи, множества, словари</a></td>
 <tr>
 <td>4</td>
 <td>15 ноября 2023</td>
-<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_Function.ipynb">Работа с функциями</a>, <a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%D0%BC.ipynb">методы</a> <b>**КР!**</b></td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_4_Function.ipynb">Работа с функциями</a>, <a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_5_Шпаргалка_по_методам.ipynb">методы</a> <b>**КР!**</b></td>
 <tr>
 <td>5</td>
 <td>18 ноября 2023</td>
@@ -42,11 +42,11 @@
 <tr>
 <td>7</td>
 <td>27 ноября 2023</td>
-<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_9_препроцессинг%2C_NLTK.ipynb">Препроцессинг, NLTK</a></td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_8_препроцессинг,_NLTK.ipynb">Препроцессинг, NLTK</a></td>
 <tr>
 <td>8</td>
 <td>2 декабря 2023</td>
-<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_11_n_gramms.ipynb">Частотные списки и n-граммы</a></td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_9_n_gramms.ipynb">Частотные списки и n-граммы</a></td>
 <tr>
 <td>9</td>
 <td>4 декабря 2023</td>
