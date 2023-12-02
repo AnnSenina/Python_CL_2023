@@ -46,7 +46,7 @@
 <tr>
 <td>8</td>
 <td>2 декабря 2023</td>
-<td>частотные списки и n-граммы</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_11_n_gramms.ipynb">Частотные списки и n-граммы</a></td>
 <tr>
 <td>9</td>
 <td>4 декабря 2023</td>
