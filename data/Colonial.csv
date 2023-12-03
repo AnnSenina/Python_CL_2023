@@ -1,0 +1,87 @@
+Country Code;Country Name;metropolis;onset;end;COLYEARS;violence;administration;decolonization;foreign trade;plantations;gold/silver;missionary;level
+AFG;Afghanistan;x;1880;1919;39;4;0;long;not appl.;no;no;0;28
+AGO;Angola;P;1506;1975;469;6;1;short;preferential;extensive;extensive;3;88
+ARE;Unit. Arab. Emir;UK;1850;1971;121;2;1;long;open door;no;no;0;22
+BDI;Burundi;B;1897;1962;65;4;0;short;open door;little;little;3;65
+BEN;Benin;F;1878;1960;82;2;1;long;preferential;little;no;3;56
+BFA;Burkina Faso;F;1896;1960;64;2;1;short;preferential;no;little;2;49
+BGD;Bangladesh;UK;1757;1947;190;2;0;long;open door;no;no;1;40
+BHR;Bahrain;UK;1860;1971;111;1;0;long;open door;no;no;0;24
+BRN;Brunei;UK;1888;1984;96;;;long;not appl.;no;no;;
+BTN;Bhutan;x;1866;1949;83;1;0;long;not appl.;no;no;0;17
+BWA;Botswana;UK;1885;1966;81;1;1;long;open door;no;little;3;43
+CAF;Central African;F;1890;1960;70;4;1;short;preferential;little;little;3;73
+CHN;China;x;1842;1949;107;6;0;short;open door;no;no;1;42
+CIV;Ivory coast;F;1839;1960;121;4;1;long;preferential;little;little;2;79
+CMR;Cameroon;F;1845;1960;115;2;1;long;preferential;extensive;little;3;74
+COG;Congo, Rep.;F;1880;1960;80;2;1;short;open door;no;little;3;71
+DJI;Djibouti;F;1862;1977;115;3;1;short;open door;no;no;1;59
+DZA;Algeria;F;1830;1962;132;6;0;short;preferential;extensive;little;1;81
+EGY;Egypt, Arab Rep;UK;1876;1956;80;5;0;long;open door;extensive;no;1;57
+ETH;Ethiopia;I;1935;1950;15;4;0;long;preferential;no;extensive;0;61
+FJI;Fiji;UK;1874;1970;96;0;1;long;preferential;extensive;extensive;4;62
+GAB;Gabon;F;1852;1960;108;2;1;short;preferential;no;little;3;59
+GHA;Ghana;UK;1844;1957;113;3;1;long;open door;little;extensive;3;75
+GIN;Guinea;F;1881;1958;77;3;1;short;preferential;little;little;1;57
+GMB;Gambia, The;UK;1661;1965;304;2;1;long;open door;no;no;3;53
+GNB;Guinea-Bissau;P;1878;1974;96;5;1;short;preferential;little;no;3;82
+GNQ;Equatorial Guin;SP;1778;1968;190;1;1;short;preferential;extensive;no;4;72
+HKG;Hongkong;UK;1842;1997;155;;;long;not appl.;no;no;;
+IDN;Indonesia;NL;1619;1962;343;5;1;short;open door;extensive;extensive;2;82
+IND;India;UK;1757;1947;190;4;1;long;open door;little;extensive;2;69
+IRN;Iran, Islamic R;x;1828;1921;93;1;0;long;open door;no;no;1;21
+IRQ;Iraq;UK;1914;1958;44;4;0;short;preferential;no;no;1;46
+JOR;Jordan;UK;1918;1956;38;0;0;long;open door;no;no;1;30
+JPN;Japan;x;1854;1911;57;1;0;long;open door;no;no;0;9
+KEN;Kenya;UK;1841;1963;122;5;1;long;open door;extensive;extensive;3;89
+KHM;Kampuchea/Cambo;F;1863;1955;92;3;0;short;preferential;extensive;no;2;68
+KOR;Korea, Rep.;JP;1876;1945;69;4;0;short;preferential;no;extensive;1;63
+KWT;Kuwait;UK;1899;1961;62;0;0;long;open door;no;no;0;30
+LAO;Lao PDR;F;1893;1955;62;3;0;short;preferential;no;no;1;56
+LBN;Lebanon;F;1860;1944;84;2;0;long;preferential;no;no;2;43
+LBR;Liberia;US;1821;1976;155;3;1;long;open door;extensive;extensive;2;77
+LBY;Libya;I;1911;1951;40;4;0;short;preferential;no;no;0;45
+LKA;Sri Lanka;UK;1597;1948;351;2;0;long;open door;extensive;no;3;58
+LSO;Lesotho;UK;1845;1966;121;2;0;long;open door;no;no;;40
+MAR;Morocco;F;1904;1956;52;3;0;long;open door;extensive;no;1;52
+MDG;Malagasy Rep.;F;1885;1960;75;2;1;short;preferential;little;little;3;68
+MLI;Mali;F;1880;1960;80;2;0;short;preferential;little;no;1;55
+MMR;Myanmar/Burma;UK;1826;1948;122;4;0;short;open door;no;extensive;2;68
+MNG;Mongolia;x;;;0;0;0;long;not appl.;no;no;0;0
+MOZ;Mozambique;P;1569;1975;406;5;1;short;preferential;extensive;little;3;77
+MRT;Mauritania;F;1858;1960;102;4;1;short;preferential;no;no;1;48
+MWI;Malawi;UK;1885;1964;79;3;1;short;open door;little;no;3;55
+MYS;Malaysia;UK;1511;1963;452;3;1;long;open door;extensive;no;2;66
+NER;Niger;F;1897;1960;63;3;1;short;preferential;no;no;1;54
+NGA;Nigeria;UK;1851;1960;109;2;1;long;open door;little;little;3;61
+NPL;Nepal;x;1816;1947;131;2;0;long;not appl.;no;no;0;13
+OMN;Oman;UK;1850;1971;121;1;0;long;open door;no;no;1;30
+PAK;Pakistan;UK;1843;1947;104;3;0;long;open door;no;no;1;49
+PHL;Philippines;US;1565;1946;381;3;1;long;preferential;extensive;extensive;4;71
+PNG;Papua New Guine;AU;1884;1975;91;1;1;long;open door;extensive;extensive;3;50
+PRK;Korea, Dem. Rep;JP;1876;1945;69;4;0;short;preferential;no;extensive;1;63
+QAT;Qatar;UK;1916;1971;55;0;0;long;open door;no;no;0;18
+RWA;Rwanda;B;1899;1961;62;3;0;short;open door;little;no;3;55
+SAU;Saudi Arabia;x;1915;1927;12;0;0;long;not appl.;no;no;0;2
+SDN;Sudan;UK;1898;1956;58;3;0;long;open door;no;little;1;57
+SEN;Senegal;F;1816;1906;90;3;1;short;preferential;little;no;2;69
+SGP;Singapore;UK;1818;1963;145;;;long;not appl.;no;no;;
+SLB;Solomon Islands;UK;1885;1978;93;1;1;long;open door;extensive;little;4;39
+SLE;Sierra Leone;UK;1787;1961;174;3;1;long;open door;no;extensive;2;63
+SOM;Somalia;I;1855;1960;105;3;1;short;open door;little;no;0;50
+SWZ;Swaziland;UK;1880;1968;88;1;0;long;open door;extensive;little;4;55
+SYR;Syrian Arab Rep;F;1918;1946;28;4;0;short;preferential;no;no;1;48
+TCD;Chad;F;1900;1960;60;2;1;short;preferential;no;no;3;59
+TGO;Togo;F;1884;1960;76;2;1;short;preferential;little;no;3;58
+THA;Thailand;x;1855;1938;83;1;0;long;open door;little;no;0;16
+TUN;Tunisia;F;1869;1956;87;1;0;long;preferential;extensive;no;1;45
+TUR;Turkey;x;1838;1923;85;0;0;long;open door;no;no;1;11
+TWN;Taiwan;JP;1624;1945;321;5;0;short;preferential;no;no;1;66
+TZA;Tanzania;UK;1821;1961;140;3;1;long;open door;little;extensive;3;64
+UGA;Uganda;UK;1890;1962;72;2;1;long;open door;little;little;3;61
+VNM;Vietnam;F;1859;1956;97;6;0;short;preferential;extensive;little;2;71
+VUT;Vanuatu;UK/F;1887;1980;93;2;1;long;open door;extensive;no;4;55
+ZAF;South Africa;UK;1652;1994;342;4;1;long;preferential;extensive;extensive;4;100
+ZAR;Zaire/Congo Dem;B;1879;1960;81;4;1;short;open door;extensive;extensive;3;73
+ZMB;Zambia;UK;1889;1964;75;2;1;long;open door;no;little;4;59
+ZWE;Zimbabwe;UK;1888;1980;92;5;1;long;preferential;extensive;extensive;3;91
