@@ -53,7 +53,7 @@
 <td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_10_pandas.ipynb">pandas, работа с датасетами</a></td>
 <tr>
 <td>10</td>
-<td>8 декабря 2023</td>
+<td>9 декабря 2023</td>
 <td>собираем корпус: парсеры,краулеры,скрепперы <b>**КР!**</b></td>
 <tr>
 <td>11</td>
