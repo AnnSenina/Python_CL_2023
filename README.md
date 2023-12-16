@@ -58,7 +58,7 @@
 <tr>
 <td>11</td>
 <td>16 декабря 2023</td>
-<td>pymorphy, mystem и др</td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_12_pymorphy%2C_mystem.ipynb">pymorphy, mystem и др</a></td>
 <tr>
 <td>12</td>
 <td>20 декабря 2023</td>
