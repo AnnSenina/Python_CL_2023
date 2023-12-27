@@ -71,7 +71,7 @@
 <tr>
 <td>14-15</td>
 <td>(даты согласуем позже)</td>
-<td>Консультации по проектам</td>
+<td>[Консультации по проектам](https://docs.google.com/spreadsheets/d/1dPcpaq35LqKtVy4VJJuf3Xv3cV3BNUOODDtSR8ZKhp8/edit?usp=sharing). Слоты будут дополняться</td>
 <table>
 
 # Формула оценивания
