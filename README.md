@@ -66,7 +66,7 @@
 <tr>
 <td>13</td>
 <td>27 декабря 2023</td>
-<td>Classes and objects <b>**КР!**</b></td>
+<td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_14_intro_to_OOP.ipynb">Classes and objects</a> <b>**КР!**</b></td>
 <tr>
 <td>14-15</td>
 <td>(даты согласуем позже)</td>
