@@ -1,6 +1,7 @@
 # Python_CL_2023
 Репозиторий с материалами курса Python ДПО Компьютерная лингвистика
 
+* [Финальный тест по курсу](https://forms.gle/wsXwFyK4ZoEM68o76). Важно! Автопроверка может что-то не зачесть: не грустите, я все перепроверяю вручную
 * [Форма](https://forms.gle/9HDYcAYk9J6NqtfNA) для отправки решенного домашнего задания
 * [Баллы](https://docs.google.com/spreadsheets/d/10hOVia21eDgu0q2V-d34qN6W2XKL60EoiO4G-pyIcPQ/edit?usp=sharing) за домашние задания
 
