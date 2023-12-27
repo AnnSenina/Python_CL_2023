@@ -70,8 +70,8 @@
 <td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_14_intro_to_OOP.ipynb">Classes and objects</a> <b>**КР!**</b></td>
 <tr>
 <td>14-15</td>
-<td>(даты согласуем позже)</td>
-<td><a href="https://docs.google.com/spreadsheets/d/1dPcpaq35LqKtVy4VJJuf3Xv3cV3BNUOODDtSR8ZKhp8/edit?usp=sharing"></a>Консультации по проектам</a>. Слоты будут дополняться</td>
+<td>(Слоты будут дополняться)</td>
+<td><a href="https://docs.google.com/spreadsheets/d/1dPcpaq35LqKtVy4VJJuf3Xv3cV3BNUOODDtSR8ZKhp8/edit?usp=sharing">Консультации по проектам</a></td>
 <table>
 
 # Формула оценивания
