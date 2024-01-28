@@ -71,7 +71,7 @@
 <tr>
 <td>14</td>
 <td>29 января 2024</td>
-<td>Пользовательские интерфейсы: <a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_15_Простые_боты_в_тг_CL_2024.ipynb">боты</a>, tkinker</td>
+<td>Пользовательские интерфейсы: <a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_15_Простые_боты_в_тг_CL_2024.ipynb">боты</a>, <a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_15_tkinker.ipynb">tkinker</a></td>
 <tr>
 <td>15-...</td>
 <td>(Слоты будут дополняться)</td>
