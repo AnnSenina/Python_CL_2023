@@ -69,7 +69,11 @@
 <td>27 декабря 2023</td>
 <td><a href="https://github.com/AnnSenina/Python_CL_2023/blob/main/notebooks/Python_14_intro_to_OOP.ipynb">Classes and objects</a> <b>**КР!**</b></td>
 <tr>
-<td>14-15</td>
+<td>14</td>
+<td>29 января 2024</td>
+<td>Пользовательские интерфейсы: боты, tkinker</td>
+<tr>
+<td>15-...</td>
 <td>(Слоты будут дополняться)</td>
 <td><a href="https://docs.google.com/spreadsheets/d/1dPcpaq35LqKtVy4VJJuf3Xv3cV3BNUOODDtSR8ZKhp8/edit?usp=sharing">Консультации по проектам</a></td>
 <table>
